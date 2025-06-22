@@ -1,0 +1,19 @@
+class,Calories (kcal),Protein (g),Carbohydrates (g),Fat (g),Fiber (g)
+Ayam Bakar,167,25.01,0.0,6.63,0.0
+Ayam Geprek,263,17.61,7.6,17.99,0.8
+Ayam Goreng,260,21.93,10.76,14.55,1.4
+Bakso,444,42.39,0.61,28.86,0.0
+Ikan Bakar,200,30.0,0.0,8.0,0.0
+Mie Goreng,350,8.0,50.0,15.0,2.0
+Nasi Goreng,400,8.0,55.0,13.0,2.0
+Nasi Kuning,150,2.99,32.96,0.27,0.6
+Nasi Putih,204,4.2,44.08,0.44,0.6
+Pecel,250,10.0,30.0,10.0,4.0
+Rendang,468,19.0,5.0,40.0,2.0
+Sambal,30,0.5,3.0,1.5,0.5
+Sate Ayam,34,2.93,0.73,2.22,0.3
+Soto Ayam,312,24.01,19.55,14.92,1.7
+Tahu Goreng,35,2.23,1.36,2.62,0.5
+Telur Goreng,92,6.3,0.6,7.0,0.0
+Telur Rebus,77,6.3,0.6,5.3,0.0
+Tempe Goreng,34,2.0,1.79,2.28,0.0
